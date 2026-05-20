@@ -62,10 +62,6 @@ Representa um jogo contendo jogadores.
 dotnet build
 ```
 
-## Repositório GitHub
-
-Suba esta pasta em um repositório no GitHub.
-
 ## Integrantes
 
 - Gustavo Teixeira
