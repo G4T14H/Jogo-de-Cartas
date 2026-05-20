@@ -64,4 +64,8 @@ dotnet build
 
 ## Integrantes
 
-- Gustavo Teixeira
+- Gustavo Teixeira - rm 557876
+- Gabriel Dias - rm 556830
+- Gabriel Galerani - rm 557421
+- Pedro Paulo - rm 554880
+- Leonardo Taschin - rm 554583
